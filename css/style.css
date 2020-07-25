@@ -101,6 +101,11 @@ main #a_que_me_dedico hr{
   margin: auto;
 }
 
+main #servicios {
+  border: solid 1px;
+  padding: 1%;
+}
+
 main #servicios .serv_cont_titulo{
   display: flex;
   justify-content: center;
@@ -185,3 +190,4 @@ footer{
   margin-bottom: 10px;
 }
 
+ 
